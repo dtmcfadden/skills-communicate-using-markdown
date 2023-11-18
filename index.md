@@ -5,3 +5,5 @@
 ##### H5
 ###### H6
 Display different header sizes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
